@@ -7,7 +7,7 @@ PROGRAM = mf2005
 # Define the Fortran compile flags
 
 F90FLAGS=
-F90= f90
+F90= gfortran 
 
 # 
 # Define the C compile flags
